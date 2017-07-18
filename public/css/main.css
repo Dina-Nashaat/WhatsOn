@@ -1,0 +1,29 @@
+.background { 
+  background:url(../img/bg5.jpg);
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+html {
+  min-height:100%;
+  }
+.search {
+      padding: 20px;
+      padding-top: 200px;
+      color:white;
+  } 
+  .input-field input[type=text]{
+      text-align: center !important;
+      text-transform: uppercase;
+      font-size: 20px;
+  }
+  .card-title{
+    font-size:18px !important;
+  }
+  .card{
+    padding-left: 10px;
+  }
+  .hideTab{
+    display:none;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "whatson",
+  "version": "1.0.0",
+  "description": "Read RSS Feed",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^0.22.0",
+    "express": "*",
+    "feed-read": "*",
+    "jquery": "^3.2.1",
+    "request": "^2.81.0",
+    "require": "^2.4.20"
+  },
+  "author": "",
+  "license": "ISC"
+}
